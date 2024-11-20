@@ -1,0 +1,9 @@
+model_family,count,Fatalities,Ground
+Boeing 737,70,4437.0,52.0
+Boeing 747,20,1155.0,77.0
+Boeing 727,17,1005.0,12.0
+Boeing 707,11,177.0,30.0
+Boeing 757,8,600.0,125.0
+Boeing 767,7,855.0,5500.0
+Boeing 777,5,540.0,1.0
+Autre,3,71.0,0.0
