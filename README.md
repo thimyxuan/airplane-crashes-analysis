@@ -29,7 +29,6 @@ Analyse des données de crashs d'avion depuis 1908 à novembre 2023.
 
 Partie 1 - Nettoyage et enrichissement des données
 
-Partie 2 - Analyse & visualisation  
-Le dashboard est accessible ici : [Tableau airplane crashes](https://public.tableau.com/app/profile/thi.my.xu.n.nguyen/viz/dashboard_airplane_crashes/Tableau)
+Partie 2 - Analyse & visualisation - Le dashboard est accessible ici : [Tableau airplane crashes](https://public.tableau.com/app/profile/thi.my.xu.n.nguyen/viz/dashboard_airplane_crashes/Tableau)
 
 Partie 3 - NLP : analyse du champ *Summary*
